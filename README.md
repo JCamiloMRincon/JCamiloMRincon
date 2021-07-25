@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Juan Camilo Mórtigo Rincón
+### Hi there 👋, I'm Camilo Mórtigo
+
 
 <!--
 **JCamiloMRincon/JCamiloMRincon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
