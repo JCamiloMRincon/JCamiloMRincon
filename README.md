@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Camilo Mórtigo
 
-## I'm a Mechanical Engineer, Developer and Academic Tutor
+## I'm a Mechanical Engineer, Web & Mobile Developer and Academic Tutor
 - 🔭 I’m currently working as a maths tutor
 - 🌱 I’m currently learning JavaScript and Kotlin
 - :computer: I’m looking for a job where I can strength my technical and soft skills and grow as a professional
