@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning JavaScript and Kotlin
 - :computer: I’m looking for a job where I can strength my technical and soft skills and grow as a professional
 - :dart: My 2021 Goal is to be a Frontend and an Android Developer
-- :muscle: Fun fact: I love working out, playing the drums and reading books
+- :muscle: Fun fact: I love working out, playing the drums and reading books.
 
 ### Technical knowledges and tools
 <!--
