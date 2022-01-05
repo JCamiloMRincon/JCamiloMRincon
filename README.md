@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Java and Kotlin
 - :computer: I’m looking for a job where I can strength my technical and soft skills and grow as a professional
 - :dart: My 2022 Goal is to get my first job in the IT world.
-- :muscle: Fun fact: I love working out, playing the drums and reading books.
+- :muscle: Fun fact: I love working out, cooking and reading books.
 
 <div>
   <a href="https://github.com/JCamiloMRincon">
