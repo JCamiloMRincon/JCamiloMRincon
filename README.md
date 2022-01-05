@@ -31,6 +31,6 @@
   ## Social
   
   <div>
-      <a href="https://www.facebook.com/juancamilo.mortigo" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+      <a href="https://www.facebook.com/juancamilo.mortigo" target="__blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="__blank"></a>
   </div>
 
