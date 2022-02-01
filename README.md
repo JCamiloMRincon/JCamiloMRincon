@@ -1,10 +1,8 @@
 ### Hi there 👋, I'm Camilo Mórtigo
 
 ## I'm a Mechanical Engineer, Web & Mobile Developer and Academic Tutor
-- 🔭 I’m currently working as a maths tutor
-- 🌱 I’m currently learning Java and Kotlin
-- :computer: I’m looking for a job where I can strength my technical and soft skills and grow as a professional
-- :dart: My 2022 Goal is to get my first job in the IT world.
+- 🔭 I’m currently working as a Junior .NET Web Developer
+- 🌱 I’m currently learning C#.
 - :muscle: Fun fact: I love working out, cooking and reading books.
 
 <div>
