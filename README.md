@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Camilo Mórtigo
 
-## I'm a Mechanical Engineer, Web & Mobile Developer and Academic Tutor
-- 🔭 I’m currently working as a Junior .NET Web Developer
-- 🌱 I’m currently learning C#.
+## I'm a Web Developer
+- 🔭 I’m currently working as a Junior .NET Web Developer and Automation Tester
+- 🌱 I’m currently learning C#, Angular and UiPath
 - :muscle: Fun fact: I love working out, cooking and reading books.
 
 <div>
