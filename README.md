@@ -2,7 +2,7 @@
 
 ## I'm a Web Developer
 - 🔭 I’m currently working as a Junior .NET Web Developer and Automation Tester
-- 🌱 I’m currently learning C#, Angular and UiPath
+- 🌱 I’m currently learning C#, React, Angular and UiPath
 - :muscle: Fun fact: I love working out, cooking and reading books.
 
 <div>
