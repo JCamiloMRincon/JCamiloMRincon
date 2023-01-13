@@ -3,7 +3,7 @@
 ## I'm a Web Developer
 - 🔭 I’m currently working as a Junior .NET Web Developer and RPA Developer
 - 🌱 I’m currently learning C#, React, Angular and UiPath
-- :muscle: Fun fact: I love working out, cooking and reading books.
+- :muscle: Fun fact: I love kickboxing, gym training, drums, cooking and reading literature books.
 
 <div>
   <a href="https://github.com/JCamiloMRincon">
