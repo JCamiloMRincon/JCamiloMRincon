@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning C#, React, Angular and UiPath
 - :muscle: Fun fact: I love kickboxing, gym training, drums, cooking and reading literature books.
 
-<--<div>
+<!--<div>
   <a href="https://github.com/JCamiloMRincon">
   <img height=180cm src="https://github-readme-stats.vercel.app/api?username=JCamiloMRincon&show_icons=true&theme=merko">
   <img height=180cm src="https://github-readme-stats.vercel.app/api/top-langs/?username=JCamiloMRincon&langs_count=8&theme=merko">
