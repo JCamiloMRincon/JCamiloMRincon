@@ -2,8 +2,8 @@
 
 ## I'm a Web Developer
 - 🔭 I’m currently working as a QA Automation Tester and RPA Developer
-- 🌱 I’m currently learning C#, React, Angular and UiPath
-- :muscle: Fun fact: I love mixed-martial arts, gym training, drums, cooking and reading books.
+- 🌱 I’m currently learning C#, Specflow, Selenium and UiPath
+- :muscle: Fun fact: I love mixed-martial arts, climbing, gym training, cooking and reading books.
 
 <!--<div>
   <a href="https://github.com/JCamiloMRincon">
