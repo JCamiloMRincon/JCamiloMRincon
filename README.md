@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Camilo Mórtigo
 
-## I'm a Web Developer
+## I'm a Software Developer Engineer in Test (SDTE)
 - 🔭 I’m currently working as a QA Automation Tester and RPA Developer
 - 🌱 I’m currently learning C#, Specflow, Selenium and UiPath
 - :muscle: Fun fact: I love mixed-martial arts, climbing, gym training, cooking and reading books.
