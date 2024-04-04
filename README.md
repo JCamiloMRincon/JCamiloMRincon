@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Camilo Mórtigo
 
-## I'm a Software Developer Engineer in Test (SDET)
-- 🔭 I’m currently working as a QA Automation Tester and RPA Developer
-- 🌱 I’m currently learning C#, Specflow, Selenium and UiPath
+## I'm a Software Development Engineer in Test (SDET)
+- 🔭 I’m currently working as a SDET
+- 🌱 I’m currently learning C#, Java, Specflow, Cucumber, Selenium and UiPath
 - :muscle: Fun fact: I love mixed-martial arts, climbing, gym training, cooking and reading books.
 
 <!--<div>
