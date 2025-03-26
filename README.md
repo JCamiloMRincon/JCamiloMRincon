@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Camilo Mórtigo
 
 ## I'm a Software Test Automation Engineer
-- 🔭 I’m currently working as a Sosftware Test Automation Engineer
+- 🔭 I’m currently working as a Software Test Automation Engineer
 - 🌱 I’m currently learning C#, Java, Specflow, Cucumber, Selenium and Playwright
 - :muscle: Fun fact: I love mixed-martial arts, climbing, gym training, cooking and reading books.
 
